@@ -1,7 +1,7 @@
 ## Tips
 >很多高版本的系统的手机都默认禁用Logcat,需要自己开启
 
->eclipse打开LogCat`windows->show view -> other->Android->LogCat
+>eclipse打开LogCat`windows->show view -> other->Android->LogCat`
 
 ### 常见的日志纪录方法包括
 ```
